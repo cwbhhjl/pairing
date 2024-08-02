@@ -1,6 +1,3 @@
-#[cfg(feature = "asm")]
-#![feature(asm_const)]
-
 #[macro_use]
 mod ec;
 #[macro_use]
